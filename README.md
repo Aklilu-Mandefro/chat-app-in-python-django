@@ -28,3 +28,7 @@ python manage.py runserver
 ```
 - It will run the application on your localhost.
 - Open the browser with the localhost address and enjoy the application.
+
+
+## 🙋‍♂️ Support
+### 💙 If you like this project, give it a ⭐ and share it with friends!
